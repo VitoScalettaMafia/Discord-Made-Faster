@@ -6,7 +6,7 @@ Windows ONLY
 # CREDITS
 https://github.com/jiahaog/nativefier - use to compile the application
 
-#DOWNLOAD
+# DOWNLOAD
 latest releases
 https://github.com/VitoSclatta/Discord-Made-Faster/releases
 
