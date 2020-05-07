@@ -8,6 +8,6 @@ https://github.com/jiahaog/nativefier - use to compile the application
 
 # DOWNLOAD
 latest releases
-https://github.com/VitoSclatta/Discord-Made-Faster/releases
+<br>https://github.com/VitoSclatta/Discord-Made-Faster/releases
 
 
